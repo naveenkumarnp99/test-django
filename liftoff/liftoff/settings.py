@@ -92,10 +92,10 @@ WSGI_APPLICATION = 'liftoff.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "defaultdb",
-        'USER': "avnadmin",
-        'PASSWORD': "AVNS_kfBUlQ_QHBM6oNQmoxJ",
-        'HOST': "pg-1eeef6d8-naveenkumarnp99-6875.d.aivencloud.com",
+        'NAME': "dfgfdgdfgfdg",
+        'USER': "dfgdfgfd",
+        'PASSWORD': "dgdfgfdg",
+        'HOST': "pg-1eeef6d8-dfghgdhgdghgdhg-6875.d.aivencloud.com",
         'PORT': "21109",
         'OPTIONS': {
             'sslmode': 'require',
